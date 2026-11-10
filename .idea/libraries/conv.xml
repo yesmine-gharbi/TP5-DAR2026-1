@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="conv">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RMIConversion_Server/out/artifacts/conv/conv.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
